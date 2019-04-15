@@ -1,0 +1,19 @@
+{
+  "headers": {
+    "Content-Length": "112",
+    "Accept-Language": "zh_CN",
+    "Accept-Encoding": "gzip",
+    "Connection": "Keep-Alive",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/8.12.20)",
+    "Host": "api.welove520.com",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Welove-UA": "[Device:RedmiNote5][OSV:8.1.0][CV:Android4.3.3][WWAN:1][zh_CN][platform:qihu][WSP:2]"
+  },
+  "data": {
+    "access_token": "562949975568826-27a43d9f94e94a4861",
+    "love_space_id": "844424937674905",
+    "sig": "l9av98D2wVady0LRS0aK7C3c85U="
+  },
+  "uri": "/v1/game/house/home",
+  "method": "POST"
+}
